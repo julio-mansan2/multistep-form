@@ -30,8 +30,8 @@
         background: var(--alabaster);
         border-radius: 10px;
         padding: 1.3rem;
-        margin: 1.3rem;
-        top: 1.8rem;
+        margin: 0.6rem;
+        top: 13rem;
     }
 
     .plans {
@@ -45,6 +45,10 @@
     .label-plan {
         flex-direction: row;
         gap: 1.3rem;
+    }
+
+    .add-on label {
+        gap: 0.5rem;
     }
 
 }
