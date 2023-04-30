@@ -204,7 +204,7 @@ const monthlySummary = document.querySelectorAll('.monthly-summary')
 const yearlySummary = document.querySelectorAll('.yearly-summary')
 const inputAddOn = document.querySelectorAll('.input-add-on')
 const totalMonth = document.querySelector('.total-month')
-const totalYear = document.querySelector('.year-month')
+const totalYear = document.querySelector('.total-year')
 
 submit[2].addEventListener('click', function () {
     if (onlineInput.checked) {
